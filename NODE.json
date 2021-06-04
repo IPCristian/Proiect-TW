@@ -1,0 +1,28 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "nume": "Alexandru Popescu",
+      "email": "B@Y.C",
+      "varsta": 23
+    },
+    {
+      "id": 2,
+      "nume": "Ion Protopopescu",
+      "email": "IoPro@gmail.com",
+      "varsta": 26
+    },
+    {
+      "id": 3,
+      "nume": "Ac Bdefgh",
+      "email": "Acabfa@yahoo.com",
+      "varsta": "34"
+    },
+    {
+      "id": 4,
+      "nume": "Exemplu Nume",
+      "email": "Exemplu@yahoo.com",
+      "varsta": 41
+    }
+  ]
+}
